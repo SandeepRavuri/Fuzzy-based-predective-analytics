@@ -15,3 +15,18 @@ improves the diseases prediction accuracy. The results showed that the combinat 
 fuzzy rule-based, CART with noise removal techniques can be effective in diseases
 prediction. The knowledge-based system can assist medical practitioners in the healthcare
 practice as a clinical analytical method.
+
+Proposed system: 
+
+In this method, classification algorithms for Machine Learning and their theoretical
+context are addressed to classify the patients with swine flu. We addressed Fuzzy logic and
+CART, both together on the techniques of machine learning to gain an advantage over output.
+The Fuzzy inference approach is built on the Fuzzy set theory, Fuzzy if then laws including
+Fuzzy logic principles. Fuzzy if-then the arrangement of rules constitutes the main component
+of Fuzzy inference system, is a very general methodology and has been commonly used in
+various fields such as data processing, automated monitoring, understanding of the system,
+pattern recognition, object detection, etc. The basic architecture for a fuzzy inference method
+is constructed of three key components: A law basis consisting of the chosen fuzzy rules, a
+database detailing the membership features of the fuzzy rules, and a logic process
+implementing a fuzzy statement inference the rules such that a rational result or conclusion
+may be drawn.
